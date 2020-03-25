@@ -1,0 +1,60 @@
+{
+  "sections": [
+    {
+      "title": "Basics",
+      "articles": [
+        {
+          "id": "0",
+          "title": "Importance of Speaking Skills",
+          "content": "The speaking skill involves a communicative ability to use language to chat and transmit messages in different and appropriate situations.. That is to say speaking is an important skill which deserves more attention in both first and second language because it reflects people's thoughts and personalities."
+        },
+        {
+          "id": "1",
+          "title": "Advantages",
+          "content": "a condition or circumstance that puts one in a favorable or superior position."
+        },
+        {
+          "id": "2",
+          "title": "Statistics",
+          "content": "Statistics is the discipline that concerns the collection, organization, analysis, interpretation and presentation of data. In applying statistics to a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model to be studied."
+        },
+        { "id": "3", "title": "Learning Methods", "content": "Learning" },
+        { "id": "4", "title": "Evaluating Skill", "content": "Evaluating" },
+        { "id": "5", "title": "How to practice effectively", "content": "How" },
+        { "id": "6", "title": "Maintain your motivation", "content": "Maintain" }
+      ]
+    },
+    {
+      "title": "Speaking Skills",
+      "articles": [{ "id": "7", "title": "Speaking Skills", "content": "Speaking" }]
+    },
+    {
+      "title": "Emotion",
+      "articles": [{ "id": "8", "title": "Emotion", "content": "Emotion" }]
+    },
+    {
+      "title": "Contents Making",
+      "articles": [{ "id": "9", "title": "Contents Making", "content": "Contents" }]
+    },
+    {
+      "title": "Communication",
+      "articles": [
+        {
+          "id": "10",
+          "title": "Communication",
+          "content": "Communication"
+        },
+        {
+          "id": "11",
+          "title": "Communication",
+          "content": "Communication"
+        },
+        {
+          "id": "12",
+          "title": "Communication",
+          "content": "Communication"
+        }
+      ]
+    }
+  ]
+}
